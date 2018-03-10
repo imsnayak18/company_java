@@ -2,5 +2,5 @@
 insert, update and delete
 
 # requirements
-netbeans
+netbeans,
 mysql
